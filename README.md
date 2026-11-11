@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Vietnam, covering official tourism portals, electronic visas, rail networks, regional guides, and digital nomad options.
 
+Vietnam is a vibrant Southeast Asian destination spanning terraced northern mountain highlands, historic imperial cities, extensive coastal waterways, and bustling metropolitan hubs. This list is intended for cultural travelers, coastal explorers, digital nomads, and culinary tourists.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
